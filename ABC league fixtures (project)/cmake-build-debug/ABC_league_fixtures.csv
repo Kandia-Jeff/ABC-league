@@ -1,0 +1,91 @@
+Weekend,Home Team,Away Team,Stadium,Local Town,Leg
+1,Cklein Starts,Wolves FC,Cklein Arena,Nairobi,1
+1,Cklein Starts,Dolphins FC,Cklein Arena,Nairobi,1
+2,Cklein Starts,Sea Horses FC,Cklein Arena,Nairobi,1
+2,Cklein Starts,Sharks United,Cklein Arena,Nairobi,1
+3,Cklein Starts,Lake Basin FC,Cklein Arena,Nairobi,1
+3,Cklein Starts,Thika United,Cklein Arena,Nairobi,1
+4,Cklein Starts,Mavuno Comrades FC,Cklein Arena,Nairobi,1
+4,Cklein Starts,Nakuru FC,Cklein Arena,Nairobi,1
+5,Cklein Starts,Ostrich Associates ,Cklein Arena,Nairobi,1
+5,Wolves FC,Dolphins FC,Wolves ,Nairobi,1
+6,Wolves FC,Sea Horses FC,Wolves ,Nairobi,1
+6,Wolves FC,Sharks United,Wolves ,Nairobi,1
+7,Wolves FC,Lake Basin FC,Wolves ,Nairobi,1
+7,Wolves FC,Thika United,Wolves ,Nairobi,1
+8,Wolves FC,Mavuno Comrades FC,Wolves ,Nairobi,1
+8,Wolves FC,Nakuru FC,Wolves ,Nairobi,1
+9,Wolves FC,Ostrich Associates ,Wolves ,Nairobi,1
+9,Dolphins FC,Sea Horses FC,Dolphins,Mombasa,1
+10,Dolphins FC,Sharks United,Dolphins,Mombasa,1
+10,Dolphins FC,Lake Basin FC,Dolphins,Mombasa,1
+11,Dolphins FC,Thika United,Dolphins,Mombasa,1
+11,Dolphins FC,Mavuno Comrades FC,Dolphins,Mombasa,1
+12,Dolphins FC,Nakuru FC,Dolphins,Mombasa,1
+12,Dolphins FC,Ostrich Associates ,Dolphins,Mombasa,1
+13,Sea Horses FC,Sharks United,SHorses Arena,Mombasa,1
+13,Sea Horses FC,Lake Basin FC,SHorses Arena,Mombasa,1
+14,Sea Horses FC,Thika United,SHorses Arena,Mombasa,1
+14,Sea Horses FC,Mavuno Comrades FC,SHorses Arena,Mombasa,1
+15,Sea Horses FC,Nakuru FC,SHorses Arena,Mombasa,1
+15,Sea Horses FC,Ostrich Associates ,SHorses Arena,Mombasa,1
+16,Sharks United,Lake Basin FC,Sharks Field,Kisumu,1
+16,Sharks United,Thika United,Sharks Field,Kisumu,1
+17,Sharks United,Mavuno Comrades FC,Sharks Field,Kisumu,1
+17,Sharks United,Nakuru FC,Sharks Field,Kisumu,1
+18,Sharks United,Ostrich Associates ,Sharks Field,Kisumu,1
+18,Lake Basin FC,Thika United,LBasin,Kisumu,1
+19,Lake Basin FC,Mavuno Comrades FC,LBasin,Kisumu,1
+19,Lake Basin FC,Nakuru FC,LBasin,Kisumu,1
+20,Lake Basin FC,Ostrich Associates ,LBasin,Kisumu,1
+20,Thika United,Mavuno Comrades FC,Thika Field,Thika,1
+21,Thika United,Nakuru FC,Thika Field,Thika,1
+21,Thika United,Ostrich Associates ,Thika Field,Thika,1
+22,Mavuno Comrades FC,Nakuru FC,Vuno Grounds,Thika,1
+22,Mavuno Comrades FC,Ostrich Associates ,Vuno Grounds,Thika,1
+23,Nakuru FC,Ostrich Associates ,Nakuru Field,Nakuru,1
+24,Wolves FC,Cklein Starts,Wolves ,Nairobi,2
+24,Dolphins FC,Cklein Starts,Dolphins,Mombasa,2
+25,Sea Horses FC,Cklein Starts,SHorses Arena,Mombasa,2
+25,Sharks United,Cklein Starts,Sharks Field,Kisumu,2
+26,Lake Basin FC,Cklein Starts,LBasin,Kisumu,2
+26,Thika United,Cklein Starts,Thika Field,Thika,2
+27,Mavuno Comrades FC,Cklein Starts,Vuno Grounds,Thika,2
+27,Nakuru FC,Cklein Starts,Nakuru Field,Nakuru,2
+28,Ostrich Associates ,Cklein Starts,OAssociates,Nakuru,2
+28,Dolphins FC,Wolves FC,Dolphins,Mombasa,2
+29,Sea Horses FC,Wolves FC,SHorses Arena,Mombasa,2
+29,Sharks United,Wolves FC,Sharks Field,Kisumu,2
+30,Lake Basin FC,Wolves FC,LBasin,Kisumu,2
+30,Thika United,Wolves FC,Thika Field,Thika,2
+31,Mavuno Comrades FC,Wolves FC,Vuno Grounds,Thika,2
+31,Nakuru FC,Wolves FC,Nakuru Field,Nakuru,2
+32,Ostrich Associates ,Wolves FC,OAssociates,Nakuru,2
+32,Sea Horses FC,Dolphins FC,SHorses Arena,Mombasa,2
+33,Sharks United,Dolphins FC,Sharks Field,Kisumu,2
+33,Lake Basin FC,Dolphins FC,LBasin,Kisumu,2
+34,Thika United,Dolphins FC,Thika Field,Thika,2
+34,Mavuno Comrades FC,Dolphins FC,Vuno Grounds,Thika,2
+35,Nakuru FC,Dolphins FC,Nakuru Field,Nakuru,2
+35,Ostrich Associates ,Dolphins FC,OAssociates,Nakuru,2
+36,Sharks United,Sea Horses FC,Sharks Field,Kisumu,2
+36,Lake Basin FC,Sea Horses FC,LBasin,Kisumu,2
+37,Thika United,Sea Horses FC,Thika Field,Thika,2
+37,Mavuno Comrades FC,Sea Horses FC,Vuno Grounds,Thika,2
+38,Nakuru FC,Sea Horses FC,Nakuru Field,Nakuru,2
+38,Ostrich Associates ,Sea Horses FC,OAssociates,Nakuru,2
+39,Lake Basin FC,Sharks United,LBasin,Kisumu,2
+39,Thika United,Sharks United,Thika Field,Thika,2
+40,Mavuno Comrades FC,Sharks United,Vuno Grounds,Thika,2
+40,Nakuru FC,Sharks United,Nakuru Field,Nakuru,2
+41,Ostrich Associates ,Sharks United,OAssociates,Nakuru,2
+41,Thika United,Lake Basin FC,Thika Field,Thika,2
+42,Mavuno Comrades FC,Lake Basin FC,Vuno Grounds,Thika,2
+42,Nakuru FC,Lake Basin FC,Nakuru Field,Nakuru,2
+43,Ostrich Associates ,Lake Basin FC,OAssociates,Nakuru,2
+43,Mavuno Comrades FC,Thika United,Vuno Grounds,Thika,2
+44,Nakuru FC,Thika United,Nakuru Field,Nakuru,2
+44,Ostrich Associates ,Thika United,OAssociates,Nakuru,2
+45,Nakuru FC,Mavuno Comrades FC,Nakuru Field,Nakuru,2
+45,Ostrich Associates ,Mavuno Comrades FC,OAssociates,Nakuru,2
+46,Ostrich Associates ,Nakuru FC,OAssociates,Nakuru,2
